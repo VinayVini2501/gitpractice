@@ -9,6 +9,7 @@ public class Edit
 	{
 		// edit changing is need
 		System.out.println("Complete editing");
+		System.out.println("Changing is completed");
 	}
 
 }
